@@ -7,7 +7,7 @@
 An advanced AI-powered Telegram bot with sophisticated text analysis, natural language humanization, and multi-modal capabilities.
 
 <div align="center">
-  <img src="https://i.imgur.com/JDQSM5X.png" width="400" alt="AI Detective Bot Demo">
+  <img src="https://i.imgur.com/7QZ4q0G.png" width="400" alt="AI Detective Bot Demo">
 </div>
 
 ## ✨ Key Features
