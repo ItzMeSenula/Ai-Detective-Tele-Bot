@@ -31,7 +31,7 @@
 
 | Platform | Link |
 |----------|------|
-| ☁️ Heroku | [![Deploy](https://img.shields.io/badge/Deploy_to-Heroku-6762a6?style=for-the-badge&logo=heroku)]([https://heroku.com/deploy?template=https://github.com/vimuwa1/ai-detective-bot](https://dashboard.heroku.com/new?template=https://github.com/vimuwa1/Ai-Detective-Tele-Bot)) |
+| ☁️ Heroku | [![Deploy](https://img.shields.io/badge/Deploy_to-Heroku-6762a6?style=for-the-badge&logo=heroku)]([https://heroku.com/deploy?template=https://github.com/vimuwa1/Ai-Detective-Tele-Bot](https://dashboard.heroku.com/new?template=https://github.com/vimuwa1/Ai-Detective-Tele-Bot)) |
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
