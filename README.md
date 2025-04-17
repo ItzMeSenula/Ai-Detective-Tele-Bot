@@ -17,7 +17,7 @@
 
 > A powerful Telegram bot built for AI-powered text analysis and natural language processing  
 > Features sentiment analysis, deception detection, and multilingual support  
-> Built with ❤️ by [Your Name](https://github.com/ItzMeSenula)
+> Built with ❤️ by [Itz_Me_Senula_2007](https://github.com/ItzMeSenula)
 
 <p align="center">
   <a href="https://github.com/ItzMeSenula/ai-detective-bot">
@@ -72,7 +72,7 @@
 
 | [![You](https://github.com/ItzMeSenula.png?size=80)](https://github.com/ItzMeSenula) |
 |------------------------------------------------------------------------------|
-| [Your Name](https://github.com/ItzMeSenula) |
+| [Itz_Me_Senula_2007](https://github.com/ItzMeSenula) |
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
